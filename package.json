@@ -1,0 +1,18 @@
+{
+  "name": "nuxt-blog-layer",
+  "type": "module",
+  "version": "0.0.0",
+  "description": "Layer for creating a blog with Nuxt",
+  "author": {
+    "name": "hywax",
+    "url": "https://hywax.space/"
+  },
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hywax/nuxt-blog-layer.git"
+  },
+  "publishConfig": {
+    "access": "public"
+  }
+}
