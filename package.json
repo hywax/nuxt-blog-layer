@@ -14,5 +14,17 @@
   },
   "publishConfig": {
     "access": "public"
+  },
+  "devDependencies": {
+    "@antfu/eslint-config": "^2.21.1",
+    "@commitlint/cli": "^19.3.0",
+    "@commitlint/config-conventional": "^19.2.2",
+    "@types/node": "^20.14.9",
+    "changelogen": "^0.5.5",
+    "eslint": "^9.5.0",
+    "husky": "^9.0.11",
+    "lint-staged": "^15.2.7",
+    "typescript": "^5.5.2",
+    "vue-tsc": "^2.0.22"
   }
 }
