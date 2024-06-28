@@ -1,7 +1,7 @@
 {
   "name": "nuxt-blog-layer",
   "type": "module",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Layer for creating a blog with Nuxt",
   "author": {
     "name": "hywax",
