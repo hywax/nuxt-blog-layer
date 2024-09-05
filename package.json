@@ -44,21 +44,21 @@
     "@tailwindcss/typography": "^0.5.15",
     "@vueuse/nuxt": "^10.11.1",
     "feed": "^4.2.2",
-    "nuxt": "^3.13.0",
+    "nuxt": "^3.13.1",
     "sitemap": "^8.0.0"
   },
   "devDependencies": {
     "@antfu/eslint-config": "^2.27.3",
     "@commitlint/cli": "^19.4.1",
     "@commitlint/config-conventional": "^19.4.1",
-    "@types/node": "^20.16.3",
+    "@types/node": "^20.16.5",
     "changelogen": "^0.5.5",
     "eslint": "^9.9.1",
     "husky": "^9.1.5",
     "lint-staged": "^15.2.10",
     "madge": "^7.0.0",
     "typescript": "^5.5.4",
-    "vue-tsc": "^2.1.4"
+    "vue-tsc": "^2.1.6"
   },
   "lint-staged": {
     "*.ts": "pnpm run lint"
